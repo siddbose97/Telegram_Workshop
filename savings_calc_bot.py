@@ -3,7 +3,7 @@ from telegram import replymarkup
 from telegram.ext import Updater, ConversationHandler, CommandHandler, MessageHandler, Filters
 
 # The API Key we received for our bot
-API_KEY = '5046225483:AAGfdeZiohjzQ3XHvSeMhSk0fylih42sN2c'
+API_KEY = ["USE YOUR OWN"]
 updater = Updater(API_KEY)
 dispatcher = updater.dispatcher
 

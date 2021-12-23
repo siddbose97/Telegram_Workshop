@@ -7,7 +7,7 @@ SECONDSTEP = 1
 THIRDSTEP = 2
 
 # The API Key we received for our bot
-#API_KEY = '5062654174:AAEg0b-JUF46drA87A4jnnmRohav0LyUBYA'
+API_KEY = ["USE YOUR OWN"]
 updater = Updater(API_KEY)
 dispatcher = updater.dispatcher
 
